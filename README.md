@@ -1,7 +1,6 @@
 
 # Nhập môn Xử lý Ảnh Số
 - LAB01
-
 Đây là môn học Nhập môn Xử lý ảnh số, được thực hiện bằng ngôn ngữ **Python** sử dụng các thư viện như `Pillow`, `NumPy`, `SciPy`, và `matplotlib`.
 Dự án bao gồm các chương trình xử lý ảnh cơ bản, giúp tìm hiểu và áp dụng các kỹ thuật như:
 - Tách kênh màu RGB
